@@ -18,3 +18,9 @@ Docker Toolbox
 [http://192.168.99.100:3000]
 
 There is currently not much to see, but future goals are to add more tests and customize the page.
+
+### Source
+
+Material and guidance for this project is provided through Stephen Grider's exceptional Docker and Kubernetes introductory course.
+
+https://www.udemy.com/docker-and-kubernetes-the-complete-guide/
